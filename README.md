@@ -10,4 +10,5 @@ This project builds a Convolutional Neural Network (CNN) to classify images of d
 - NumPy
 - Matplotlib
 
-You can find the images here: 
+You can find the images here, download and unzip into a folder images: https://drive.google.com/uc?export=download&id=1sj62C-9WKD09-8iYSeEvXmAGQoY2oFFQ
+
